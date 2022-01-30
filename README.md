@@ -5,7 +5,7 @@
 <hr/>
 
 <h3> About me </h3>
-🎓 Systems Development Analyst Student (2019 - 2021) <br/>
+🎓 Systems Development Analyst Student (2019 - 2022) <br/>
  🧑‍💻 On the way to becoming a Front End developer <br/>
  💬 Spoken Languages:  Portuguese and English <br/>
 🇧🇷 Born in Rio de Janeiro, Brazil
